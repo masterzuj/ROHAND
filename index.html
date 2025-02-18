@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand</title>
+    <style>
+        #video, #canvas {
+            position: absolute;
+			opacity: 0;
+        }
+    </style>
+</head>
+<body>
+    <video id="video" autoplay playsinline></video>
+    <canvas id="canvas"></canvas>
+
+    <script src="./hands.min.js"></script>
+    <script src="./drawing_utils.min.js"></script>
+    <script src="./camera_utils.min.js"></script>
+
+	
+	
+	
+	
+	
+
+<script type="importmap">
+  {
+    "imports": {
+      "three": "./three/build/three.module.js",
+      "three/addons/": "./three/examples/jsm/",
+	  "GLTFLoader": "./three/examples/jsm/loaders/GLTFLoader.js"
+    }
+  }
+</script>
+
+
+<script type="module" src="./index_three_ready_2.js"></script>
+
+
+</body>
+</html>

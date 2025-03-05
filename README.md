@@ -6,5 +6,5 @@ An example of a hand, that copy handmoves per camera.
 
 To Clone Git:
 
-git clone https://github.com/masterzuj/ROHAND.git
+    git clone https://github.com/masterzuj/ROHAND.git
 

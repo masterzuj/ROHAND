@@ -9,6 +9,8 @@ To Clone Git:
     git clone https://github.com/masterzuj/ROHAND.git
 
 
+Modell OBJ, GLB, MTL:
+
 Lizenz: Creative Commons Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-NC-SA 4.0) (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Dieses Design wurde mit der kostenlosen Version von Autodesk Fusion 360 erstellt und wird unter den Bedingungen der Creative Commons Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz geteilt.
